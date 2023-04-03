@@ -9,4 +9,5 @@ To do this, Logistic Regression has been used because it is a binary classificat
 After training the model we have taken underlying health conditions as user input and finally predicted the result. 
 
 [1] Wang, L.L., Lo, K., Chandrasekhar, Y., Reas, R., Yang, J., Eide, D., Funk, K., Kinney, R., Liu, Z., Merrill, W., Mooney, P., Murdick, D., Rishi, D., Sheehan, J., Shen, Z., Stilson, B., Wade, A.D., Wang, K., Wilhelm, C., Xie, B., Raymond, D.M. & Weld, D.S. (2020). CORD-19: The Covid-19 Open Research Dataset. arXiv preprint arXiv:2004.10706.
+
 [2] Menard, S. (2002). Applied logistic regression analysis. Sage Publications. 
